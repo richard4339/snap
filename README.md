@@ -42,3 +42,23 @@ Apocalypse
 ## Thanos
 ### Thanos 2
 `eyJDYXJkcyI6W3siQ2FyZERlZklkIjoiUHN5bG9ja2UifSx7IkNhcmREZWZJZCI6IkxlZWNoIn0seyJDYXJkRGVmSWQiOiJBZXJvIn0seyJDYXJkRGVmSWQiOiJCbHVlTWFydmVsIn0seyJDYXJkRGVmSWQiOiJNYWduZXRvIn0seyJDYXJkRGVmSWQiOiJEZXZpbERpbm9zYXVyIn0seyJDYXJkRGVmSWQiOiJBbWVyaWNhQ2hhdmV6In0seyJDYXJkRGVmSWQiOiJTdW5zcG90In0seyJDYXJkRGVmSWQiOiJMb2NramF3In0seyJDYXJkRGVmSWQiOiJXYXZlIn0seyJDYXJkRGVmSWQiOiJUaGFub3MifSx7IkNhcmREZWZJZCI6IlNoYW5nQ2hpIn1dfQ==`
+
+
+
+Supergiant Monkey
+# (1) Bast
+# (1) Forge
+# (1) Nico Minoru
+# (2) Beast
+# (2) Mysterio
+# (3) Bishop
+# (3) Hit-Monkey
+# (3) Luke Cage
+# (3) Black Swan
+# (4) Absorbing Man
+# (4) Supergiant
+# (5) Valkyrie
+#
+eyJDYXJkcyI6W3siQ2FyZERlZklkIjoiQmFzdCJ9LHsiQ2FyZERlZklkIjoiRm9yZ2UifSx7IkNhcmREZWZJZCI6Ik5pY29NaW5vcnUifSx7IkNhcmREZWZJZCI6IkJlYXN0In0seyJDYXJkRGVmSWQiOiJNeXN0ZXJpbyJ9LHsiQ2FyZERlZklkIjoiQmlzaG9wIn0seyJDYXJkRGVmSWQiOiJIaXRNb25rZXkifSx7IkNhcmREZWZJZCI6Ikx1a2VDYWdlIn0seyJDYXJkRGVmSWQiOiJCbGFja1N3YW4ifSx7IkNhcmREZWZJZCI6IkFic29yYmluZ01hbiJ9LHsiQ2FyZERlZklkIjoiU3VwZXJnaWFudCJ9LHsiQ2FyZERlZklkIjoiVmFsa3lyaWUifV19
+#
+# To use this deck, copy it to your clipboard and paste it from the deck editing menu in Snap.
