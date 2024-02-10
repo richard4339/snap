@@ -1,22 +1,21 @@
 # snap
 MARVEL Snap! Decks
 
-# (1) Blade
-# (2) Morbius
-# (2) Swarm
-# (2) Colleen Wing
-# (3) Lockjaw
-# (3) Moon Knight
-# (3) Lady Sif
-# (3) Sword Master
-# (4) Dracula
-# (4) Hellcow
-# (6) Hela
-# (6) Apocalypse
-#
-eyJDYXJkcyI6W3siQ2FyZERlZklkIjoiTW9vbktuaWdodCJ9LHsiQ2FyZERlZklkIjoiSGVsbGNvdyJ9LHsiQ2FyZERlZklkIjoiSGVsYSJ9LHsiQ2FyZERlZklkIjoiQ29sbGVlbldpbmcifSx7IkNhcmREZWZJZCI6IlN3b3JkTWFzdGVyIn0seyJDYXJkRGVmSWQiOiJTd2FybSJ9LHsiQ2FyZERlZklkIjoiTW9yYml1cyJ9LHsiQ2FyZERlZklkIjoiQXBvY2FseXBzZSJ9LHsiQ2FyZERlZklkIjoiRHJhY3VsYSJ9LHsiQ2FyZERlZklkIjoiTGFkeVNpZiJ9LHsiQ2FyZERlZklkIjoiQmxhZGUifSx7IkNhcmREZWZJZCI6IkxvY2tqYXcifV19
-#
-# To use this deck, copy it to your clipboard and paste it from the deck editing menu in Snap.
+## Discard
+### Helapocalypse
+Blade
+Morbius
+Swarm
+Colleen Wing
+Lockjaw
+Moon Knight
+Lady Sif
+Sword Master
+Dracula
+Hellcow
+Hela
+Apocalypse
+`eyJDYXJkcyI6W3siQ2FyZERlZklkIjoiTW9vbktuaWdodCJ9LHsiQ2FyZERlZklkIjoiSGVsbGNvdyJ9LHsiQ2FyZERlZklkIjoiSGVsYSJ9LHsiQ2FyZERlZklkIjoiQ29sbGVlbldpbmcifSx7IkNhcmREZWZJZCI6IlN3b3JkTWFzdGVyIn0seyJDYXJkRGVmSWQiOiJTd2FybSJ9LHsiQ2FyZERlZklkIjoiTW9yYml1cyJ9LHsiQ2FyZERlZklkIjoiQXBvY2FseXBzZSJ9LHsiQ2FyZERlZklkIjoiRHJhY3VsYSJ9LHsiQ2FyZERlZklkIjoiTGFkeVNpZiJ9LHsiQ2FyZERlZklkIjoiQmxhZGUifSx7IkNhcmREZWZJZCI6IkxvY2tqYXcifV19`
 
 ## Discard
 ### Ghost Rider/America
