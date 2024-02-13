@@ -36,8 +36,14 @@ MARVEL Snap! Decks
 
 ## Lockdown
 ### Super Lockdown
-![Super Lockdown](https://github.com/richard4339/snap/blob/main/decks/super-lockdown.webp)
+![Super Lockdown](https://github.com/richard4339/snap/blob/main/decks/super-lockdown.webp)  
+![Super Lockdown](https://github.com/richard4339/snap/blob/main/decks/super-lockdown-2.webp)
 `eyJOYW1lIjoiTmV3IERlY2siLCJDYXJkcyI6W3siQ2FyZERlZklkIjoiTmVidWxhIn0seyJDYXJkRGVmSWQiOiJJY2VtYW4ifSx7IkNhcmREZWZJZCI6IlphYnUifSx7IkNhcmREZWZJZCI6IkplZmZUaGVCYWJ5TGFuZFNoYXJrIn0seyJDYXJkRGVmSWQiOiJTdG9ybSJ9LHsiQ2FyZERlZklkIjoiTXNNYXJ2ZWwifSx7IkNhcmREZWZJZCI6Ikplc3NpY2FKb25lcyJ9LHsiQ2FyZERlZklkIjoiU3VwZXJnaWFudCJ9LHsiQ2FyZERlZklkIjoiSXJvbkxhZCJ9LHsiQ2FyZERlZklkIjoiS2xhdyJ9LHsiQ2FyZERlZklkIjoiQWxpb3RoIn0seyJDYXJkRGVmSWQiOiJEckRvb20ifV19`
+
+## Move
+### Spider[ish] Move
+![Spiderish Move](https://github.com/richard4339/snap/blob/main/decks/spiderish-move.webp)
+
 
 ## Thanos
 ### Thanos 2
@@ -57,3 +63,40 @@ MARVEL Snap! Decks
 ![this-deck-needs-a-name](https://github.com/richard4339/snap/blob/main/decks/this-deck-needs-a-name.webp)
 ![this-deck-needs-a-name-v2](https://github.com/richard4339/snap/blob/main/decks/this-deck-needs-a-name-v2.webp)
 ![wong-zola](https://github.com/richard4339/snap/blob/main/decks/wong-zola.webp)
+![agatha-kazoo](https://github.com/richard4339/snap/blob/main/decks/agatha-kazoo.webp)
+![brainless-lockjaw](https://github.com/richard4339/snap/blob/main/decks/brainless-lockjaw.webp)
+![modoskard](https://github.com/richard4339/snap/blob/main/decks/modoskard.webp)
+![sera-surfer](https://github.com/richard4339/snap/blob/main/decks/sera-surfer.webp)
+![Patriot 2](https://github.com/richard4339/snap/blob/main/decks/patriot-2.webp)
+![valk-patriot](https://github.com/richard4339/snap/blob/main/decks/valk-patriot.webp)
+![Stats & Stones](https://github.com/richard4339/snap/blob/main/decks/stats-stones.webp)
+![HM Bounce](https://github.com/richard4339/snap/blob/main/decks/hm-bounce.webp)
+![Galactus #2](https://github.com/richard4339/snap/blob/main/decks/galactus-2.webp)
+![Loki Collector 001](https://github.com/richard4339/snap/blob/main/decks/loki-collector-001.webp)
+![Knull Zola](https://github.com/richard4339/snap/blob/main/decks/knull-zola.webp)
+![Evolved Lockjaw v2](https://github.com/richard4339/snap/blob/main/decks/evolved-lockjaw-v2.webp)
+![Destroy Galactus Style](https://github.com/richard4339/snap/blob/main/decks/destroy-galactus-style.webp)
+![Thanos Death Knull](https://github.com/richard4339/snap/blob/main/decks/thanos-death-knull.webp)
+![Perfected Hela](https://github.com/richard4339/snap/blob/main/decks/perfected-hela.webp)
+![Junkdown](https://github.com/richard4339/snap/blob/main/decks/junkdown.webp)
+![Let It Loki](https://github.com/richard4339/snap/blob/main/decks/let-it-loki.webp)
+![Werewolf Annihilus](https://github.com/richard4339/snap/blob/main/decks/werewolf-annihilus.webp)
+![Good Cards Ms Marvel Old](https://github.com/richard4339/snap/blob/main/decks/good-cards-ms-marvel-old.webp)
+![Thanos Blob](https://github.com/richard4339/snap/blob/main/decks/thanos-blob.webp)
+![Agatha Kazoo v2](https://github.com/richard4339/snap/blob/main/decks/agatha-kazoo-2.webp)
+![Annihilus v2](https://github.com/richard4339/snap/blob/main/decks/annihilus-v2.webp)
+![Bloberhela](https://github.com/richard4339/snap/blob/main/decks/bloberhela.webp)
+![Brainless Lockjaw v3](https://github.com/richard4339/snap/blob/main/decks/brainless-lockjaw-3.webp)
+![Evolved Lockjaw v2](https://github.com/richard4339/snap/blob/main/decks/evolved-lockjaw-v2.webp)
+![Evolved Lockjaw v3](https://github.com/richard4339/snap/blob/main/decks/evolved-lockjaw-v3.webp)
+![Galactus 3](https://github.com/richard4339/snap/blob/main/decks/galactus-3.webp)
+![Good Cards Disruption](https://github.com/richard4339/snap/blob/main/decks/good-cards-disruption.webp)
+![Good Cards Hawk](https://github.com/richard4339/snap/blob/main/decks/good-cards-hawk.webp)
+![Hm Bounce 2](https://github.com/richard4339/snap/blob/main/decks/hm-bounce-2.webp)
+![Lockdown](https://github.com/richard4339/snap/blob/main/decks/lockdown.webp)
+![Loki By Night](https://github.com/richard4339/snap/blob/main/decks/loki-by-night.webp)
+![Low Key Collector](https://github.com/richard4339/snap/blob/main/decks/low-key-collector.webp)
+![Modelo](https://github.com/richard4339/snap/blob/main/decks/modelo.webp)
+![Modoskard Old](https://github.com/richard4339/snap/blob/main/decks/modoskard-old.webp)
+![Sera Crashes The Gala](https://github.com/richard4339/snap/blob/main/decks/sera-crashes-the-gala.webp)
+![Thanos Blob v2](https://github.com/richard4339/snap/blob/main/decks/thanos-blob-2.webp)
