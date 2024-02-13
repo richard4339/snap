@@ -3,18 +3,7 @@ MARVEL Snap! Decks
 
 ## Discard
 ### Helapocalypse
-Blade
-Morbius
-Swarm
-Colleen Wing
-Lockjaw
-Moon Knight
-Lady Sif
-Sword Master
-Dracula
-Hellcow
-Hela
-Apocalypse
+![Helapocalypse](https://github.com/richard4339/snap/blob/bb868f01d2316e2fc4e223ad6dfd26f58850e983/decks/helapocalypse.webp)
 `eyJDYXJkcyI6W3siQ2FyZERlZklkIjoiTW9vbktuaWdodCJ9LHsiQ2FyZERlZklkIjoiSGVsbGNvdyJ9LHsiQ2FyZERlZklkIjoiSGVsYSJ9LHsiQ2FyZERlZklkIjoiQ29sbGVlbldpbmcifSx7IkNhcmREZWZJZCI6IlN3b3JkTWFzdGVyIn0seyJDYXJkRGVmSWQiOiJTd2FybSJ9LHsiQ2FyZERlZklkIjoiTW9yYml1cyJ9LHsiQ2FyZERlZklkIjoiQXBvY2FseXBzZSJ9LHsiQ2FyZERlZklkIjoiRHJhY3VsYSJ9LHsiQ2FyZERlZklkIjoiTGFkeVNpZiJ9LHsiQ2FyZERlZklkIjoiQmxhZGUifSx7IkNhcmREZWZJZCI6IkxvY2tqYXcifV19`
 
 ### Ghost Rider/America
@@ -26,7 +15,7 @@ Apocalypse
 `eyJDYXJkcyI6W3siQ2FyZERlZklkIjoiU3dhcm0ifSx7IkNhcmREZWZJZCI6Ik1vb25LbmlnaHQifSx7IkNhcmREZWZJZCI6IlN3b3JkTWFzdGVyIn0seyJDYXJkRGVmSWQiOiJMb2NramF3In0seyJDYXJkRGVmSWQiOiJEcmFjdWxhIn0seyJDYXJkRGVmSWQiOiJIZWxsY293In0seyJDYXJkRGVmSWQiOiJIZWxhIn0seyJDYXJkRGVmSWQiOiJCbGFkZSJ9LHsiQ2FyZERlZklkIjoiTW9yYml1cyJ9LHsiQ2FyZERlZklkIjoiQ29sbGVlbldpbmcifSx7IkNhcmREZWZJZCI6IkxhZHlTaWYifSx7IkNhcmREZWZJZCI6IkFwb2NhbHlwc2UifV19`
 
 ## Destroy
-
+![Destroy](https://github.com/richard4339/snap/blob/bb868f01d2316e2fc4e223ad6dfd26f58850e983/decks/destroy.webp)
 `eyJDYXJkcyI6W3siQ2FyZERlZklkIjoiTm92YSJ9LHsiQ2FyZERlZklkIjoiQnVja3lCYXJuZXMifSx7IkNhcmREZWZJZCI6IkNhcm5hZ2UifSx7IkNhcmREZWZJZCI6IkRlYXRobG9rIn0seyJDYXJkRGVmSWQiOiJLaWxsbW9uZ2VyIn0seyJDYXJkRGVmSWQiOiJXYXJwYXRoIn0seyJDYXJkRGVmSWQiOiJEZWFkcG9vbCJ9LHsiQ2FyZERlZklkIjoiVGFza21hc3RlciJ9LHsiQ2FyZERlZklkIjoiSG9vZCJ9LHsiQ2FyZERlZklkIjoiU2NvcnBpb24ifSx7IkNhcmREZWZJZCI6IlZlbm9tIn0seyJDYXJkRGVmSWQiOiJBbWVyaWNhQ2hhdmV6In1dfQ==`
 
 ## Destroverine
@@ -45,6 +34,10 @@ Apocalypse
 
 
 
+## Zoo
+![1 Spam](https://github.com/richard4339/snap/blob/bb868f01d2316e2fc4e223ad6dfd26f58850e983/decks/1-spam.webp)
+
+## Todo
 Supergiant Monkey
 # (1) Bast
 # (1) Forge
