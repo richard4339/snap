@@ -100,3 +100,55 @@ MARVEL Snap! Decks
 ![valk-patriot](https://github.com/richard4339/snap/blob/main/decks/valk-patriot.webp)
 ![Werewolf Annihilus](https://github.com/richard4339/snap/blob/main/decks/werewolf-annihilus.webp)
 ![wong-zola](https://github.com/richard4339/snap/blob/main/decks/wong-zola.webp)
+
+### Love Surfer
+# (1) Forge
+# (2) Okoye
+# (2) Invisible Woman
+# (3) Brood
+# (3) Mister Fantastic
+# (3) Silver Surfer
+# (3) Nakia
+# (3) Sebastian Shaw
+# (4) Wong
+# (4) Absorbing Man
+# (5) Black Panther
+# (6) Arnim Zola
+#
+eyJDYXJkcyI6W3siQ2FyZERlZklkIjoiRm9yZ2UifSx7IkNhcmREZWZJZCI6Ik9rb3llIn0seyJDYXJkRGVmSWQiOiJJbnZpc2libGVXb21hbiJ9LHsiQ2FyZERlZklkIjoiQnJvb2QifSx7IkNhcmREZWZJZCI6Ik1yRmFudGFzdGljIn0seyJDYXJkRGVmSWQiOiJOYWtpYSJ9LHsiQ2FyZERlZklkIjoiU2ViYXN0aWFuU2hhdyJ9LHsiQ2FyZERlZklkIjoiV29uZyJ9LHsiQ2FyZERlZklkIjoiQWJzb3JiaW5nTWFuIn0seyJDYXJkRGVmSWQiOiJCbGFja1BhbnRoZXIifSx7IkNhcmREZWZJZCI6IkFybmltWm9sYSJ9LHsiQ2FyZERlZklkIjoiU2lsdmVyU3VyZmVyIn1dfQ==
+#
+# Bouncy Castle
+
+# (1) The Hood
+# (1) Forge
+# (1) Spider-Ham
+# (1) Iceman
+# (1) Nico Minoru
+# (2) Beast
+# (2) Falcon
+# (2) Mysterio
+# (3) Bishop
+# (3) Hit-Monkey
+# (3) Black Swan
+# (4) Werewolf By Night
+#
+eyJDYXJkcyI6W3siQ2FyZERlZklkIjoiSG9vZCJ9LHsiQ2FyZERlZklkIjoiRm9yZ2UifSx7IkNhcmREZWZJZCI6IlNwaWRlckhhbSJ9LHsiQ2FyZERlZklkIjoiSWNlbWFuIn0seyJDYXJkRGVmSWQiOiJOaWNvTWlub3J1In0seyJDYXJkRGVmSWQiOiJCZWFzdCJ9LHsiQ2FyZERlZklkIjoiRmFsY29uIn0seyJDYXJkRGVmSWQiOiJNeXN0ZXJpbyJ9LHsiQ2FyZERlZklkIjoiQmlzaG9wIn0seyJDYXJkRGVmSWQiOiJIaXRNb25rZXkifSx7IkNhcmREZWZJZCI6IkJsYWNrU3dhbiJ9LHsiQ2FyZERlZklkIjoiV2VyZXdvbGZCeU5pZ2h0In1dfQ==
+#
+# Black Swan
+
+# (1) The Hood
+# (1) Bast
+# (1) Forge
+# (1) Iceman
+# (1) Nico Minoru
+# (2) Beast
+# (2) Falcon
+# (2) Mysterio
+# (3) Bishop
+# (3) Hit-Monkey
+# (3) Black Swan
+# (4) Shang-Chi
+#
+eyJDYXJkcyI6W3siQ2FyZERlZklkIjoiSG9vZCJ9LHsiQ2FyZERlZklkIjoiQmFzdCJ9LHsiQ2FyZERlZklkIjoiRm9yZ2UifSx7IkNhcmREZWZJZCI6Ik5pY29NaW5vcnUifSx7IkNhcmREZWZJZCI6IkJsYWNrU3dhbiJ9LHsiQ2FyZERlZklkIjoiRmFsY29uIn0seyJDYXJkRGVmSWQiOiJNeXN0ZXJpbyJ9LHsiQ2FyZERlZklkIjoiSGl0TW9ua2V5In0seyJDYXJkRGVmSWQiOiJCZWFzdCJ9LHsiQ2FyZERlZklkIjoiU2hhbmdDaGkifSx7IkNhcmREZWZJZCI6IkljZW1hbiJ9LHsiQ2FyZERlZklkIjoiQmlzaG9wIn1dfQ==
+#
+# To use this deck, copy it to your clipboard and paste it from the deck editing menu in Snap.
