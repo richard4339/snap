@@ -101,6 +101,33 @@ MARVEL Snap! Decks
 ![Werewolf Annihilus](https://github.com/richard4339/snap/blob/main/decks/werewolf-annihilus.webp)
 ![wong-zola](https://github.com/richard4339/snap/blob/main/decks/wong-zola.webp)
 
+![Black Swan & Skaar](https://github.com/richard4339/snap/blob/main/decks/black-swan-skaar.webp)
+![Black Swan v2](https://github.com/richard4339/snap/blob/main/decks/black-swan-v2.webp)
+![Black Swan](https://github.com/richard4339/snap/blob/main/decks/black-swan.webp)
+![Blobby Lashley](https://github.com/richard4339/snap/blob/main/decks/blobby-lashley.webp)
+![Blobby Lashley 2](https://github.com/richard4339/snap/blob/main/decks/blobby-lashley-2.webp)
+![Bouncy Castle](https://github.com/richard4339/snap/blob/main/decks/bouncy-castle.webp)
+![Deadpool Destroy](https://github.com/richard4339/snap/blob/main/decks/deadpool-destroy.webp)
+![Deck 14 v2](https://github.com/richard4339/snap/blob/main/decks/deck-14-v2.webp)
+![Deck 14 v3](https://github.com/richard4339/snap/blob/main/decks/deck-14-v3.webp)
+![Discard Big Hand Ramp](https://github.com/richard4339/snap/blob/main/decks/discard-big-hand-ramp.webp)
+![Galactic Junk](https://github.com/richard4339/snap/blob/main/decks/galactic-junk.webp)
+![Gambit Wong V2](https://github.com/richard4339/snap/blob/main/decks/gambit-wong-v2.webp)
+![Gambit Wong](https://github.com/richard4339/snap/blob/main/decks/gambit-wong.webp)
+![Hammer Dog](https://github.com/richard4339/snap/blob/main/decks/hammer-dog.webp)
+![Hela Lockjaw](https://github.com/richard4339/snap/blob/main/decks/hela-lockjaw.webp)
+![Hela'va Blob There](https://github.com/richard4339/snap/blob/main/decks/helava-blob-there.webp)
+![Just Move](https://github.com/richard4339/snap/blob/main/decks/just-move.webp)
+![Loki](https://github.com/richard4339/snap/blob/main/decks/loki.webp)
+![Love Surfer](https://github.com/richard4339/snap/blob/main/decks/love-surfer.webp)
+![Move Summers](https://github.com/richard4339/snap/blob/main/decks/move-summers.webp)
+![Phoenix Destroy](https://github.com/richard4339/snap/blob/main/decks/phoenix-destroy.webp)
+![Pixie Pride](https://github.com/richard4339/snap/blob/main/decks/pixie-pride.webp)
+![Planet Evolutionary](https://github.com/richard4339/snap/blob/main/decks/planet-evolutionary.webp)
+![Wolf Junk](https://github.com/richard4339/snap/blob/main/decks/wolf-junk.webp)
+![Zabhawk Post Nerf](https://github.com/richard4339/snap/blob/main/decks/zabhawk-post-nerf.webp)
+![Zabhawk Pre Nerf](https://github.com/richard4339/snap/blob/main/decks/zabhawk-pre-nerf.webp)
+
 ### Love Surfer
 # (1) Forge
 # (2) Okoye
